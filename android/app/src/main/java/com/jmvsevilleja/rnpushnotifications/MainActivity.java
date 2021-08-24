@@ -1,4 +1,4 @@
-package com.rnpushnotifications;
+package com.jmvsevilleja.rnpushnotifications;
 
 import com.facebook.react.ReactActivity;
 
