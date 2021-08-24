@@ -13,7 +13,8 @@
     "@react-native-firebase/app": "^12.7.2",
     "@react-native-firebase/messaging": "^12.7.2",
     "react": "17.0.2",
-    "react-native": "0.65.1"
+    "react-native": "0.65.1",
+    "react-native-push-notification": "^8.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
