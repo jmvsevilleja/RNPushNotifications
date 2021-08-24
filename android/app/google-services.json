@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054603836370",
+    "project_id": "rnpushnotifications-6a90a",
+    "storage_bucket": "rnpushnotifications-6a90a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054603836370:android:fa1aba652ceeead9a1660b",
+        "android_client_info": {
+          "package_name": "com.jmvsevilleja.rnpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054603836370-22tbo156vvoammatbf9u334bohkctgg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhPbvag04jCqLyKW6MueQrJRCgpaMh4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054603836370-22tbo156vvoammatbf9u334bohkctgg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
